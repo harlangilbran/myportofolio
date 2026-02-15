@@ -4,7 +4,6 @@ export default function About() {
         { name: 'Linux', icon: './assets/linux.png', },
         { name: 'figma', icon: './assets/figma.png', },
         { name: 'git', icon: './assets/git.png', },
-        { name: 'github', icon: './assets/github.png', },
         { name: 'Windows', icon: './assets/windows.png', },
         { name: 'React', icon: './assets/atom.png', },       
     ];
