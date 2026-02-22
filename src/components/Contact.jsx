@@ -31,7 +31,7 @@ export default function Contact() {
         setResult("✅ Message sent successfully!");
 
         // ================= WHATSAPP =================
-        const phoneNumber = "6285215958142";
+        const phoneNumber = "6285174391108";
 
         const text = encodeURIComponent(
           `Hello Harlan 👋
