@@ -15,7 +15,7 @@ export default function Services() {
         {
             name: 'UI/ UX design',
             icon: './assets/ui-icon.png',
-            description: 'Web development is the process of building, programming...',
+            description: 'Web development is the process of building, programming...p',
             link: '#',
         },
         {
