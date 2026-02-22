@@ -7,7 +7,7 @@ export default function Services() {
             link: '#',
         },
         {
-            name: 'Mobile appp',
+            name: 'Mobile appppppp',
             icon: './assets/mobile-icon.png',
             description: 'Web development is the process of building, programming...',
             link: '#',
